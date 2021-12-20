@@ -1,0 +1,27 @@
+.campo{
+
+    border: solid 1.5px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    outline: none;
+
+}
+
+#campo-titulo{
+
+    width: 400px;
+}
+
+#campo-descricao{
+    
+    height: 150px;
+    resize: none;
+    width: 500px;
+
+}
+
+
+.label-campo{
+
+    font-size: 25px;
+
+}
